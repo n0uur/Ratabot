@@ -58,5 +58,8 @@ def main():
         sleep(0.2)
     for character in typing:
         textarea.send_keys(character)
-        sleep(0.08)
+        sleep(0.26)
+    print("Finished! Login to your Facebook")
+    print("Made by n0uur [Krittanut Siripornnoppakhun, KMITL]")
+    input("\nPress enter to end this program..")
 main()
