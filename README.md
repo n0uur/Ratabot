@@ -7,7 +7,7 @@
 
 ## Python Libary
 - selenium
-- lxml
+- ~~lxml~~
 - ~~keyboard~~
 
 ## How to use
