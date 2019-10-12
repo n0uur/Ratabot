@@ -3,8 +3,8 @@ from time import sleep, time
 import re
 
 import selenium.webdriver as webdriver
-import lxml.html as lh
-import lxml.html.clean as clean
+# import lxml.html as lh
+# import lxml.html.clean as clean
 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
