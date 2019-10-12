@@ -1,7 +1,9 @@
 # Ratabot
 
 ## About
-> Ratatype bot using Python 3.7 with ChromeDriver just for Education only do not cheating on PSIT :P
+> Ratatype bot using Python 3.7 with ChromeDriver just for Education only
+
+*do not cheating on PSIT :P*
 
 ## Python Libary
 - selenium
@@ -21,6 +23,6 @@ pip install -r requirements.txt
 ratabot.cmd
 ```
 
-### Wait ultil finished and login to your Facebook account :)
+### Wait ultil finish and login to your Facebook account :)
 
 #### Enjoy :)
