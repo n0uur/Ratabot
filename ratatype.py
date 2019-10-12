@@ -1,5 +1,4 @@
 """ ratatype bot """
-import keyboard
 from time import sleep, time
 import re
 
